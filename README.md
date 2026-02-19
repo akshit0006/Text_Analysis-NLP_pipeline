@@ -13,7 +13,7 @@ This Flask web application performs text analysis, including:
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone https://github.com/aniket-1177 Text-Analysis---NLP-Pipeline.git
+    git clone https://github.com/akshit0006/Text_Analysis-NLP_pipeline
 
     ```
 
